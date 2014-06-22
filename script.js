@@ -12,10 +12,10 @@ $(document).ready(setInterval(function() {
     
     var marginL = ["5","30","50","100","200","250","230","290","230","240","250","260","270","280","290","300","310","320","440","450","460","470","480","490","500","510","520","530","540","550","560","570","580"];
     var randLMargin = Math.floor(Math.random()*marginL.length);
-    $('h1').css("margin-left",marginL[randLMargin]);
+    $('h1').css("left",marginL[randLMargin]);
     
     var marginTop = ["5","30","50","100","200","250","230","290","230","240","250","260","270","280","290","300","310","320","440","450","460","470","480","490","500","510","520","530","540","550","560","570","580"];
     var randTMargin = Math.floor(Math.random()*marginTop.length);
-    $('h1').css("margin-top",marginTop[randTMargin]);
+    $('h1').css("top",marginTop[randTMargin]);
     
 }, 250));
