@@ -14,7 +14,7 @@ $(document).ready(setInterval(function() {
     var randLMargin = Math.floor(Math.random()*marginL.length);
     $('div').css("margin-left",marginL[randLMargin]);
     
-    var marginTop = ["5px","30px","50px","100px","200px","250px","230px","290px","230px","240px","250px","260px","270px","280px","290px","300px","310px","320px","440px","450px","460px","470px","480px","490px","500px","510px","520px","530px","540px","550px","560px","570px","580px"];
+    var marginTop = ["5px","10px","15px","20px","25px","30px","35px","50px","100px","200px","250px","230px","290px","230px","240px","250px","260px","270px","280px","290px","300px","310px","320px","440px","450px","460px","470px","480px","490px","500px","510px","520px","530px","540px","550px","560px","570px","580px"];
     var randTMargin = Math.floor(Math.random()*marginTop.length);
     $('div').css("margin-top",marginTop[randTMargin]);
     
