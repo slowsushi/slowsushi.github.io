@@ -18,4 +18,4 @@ $(document).ready(setInterval(function() {
     var randTMargin = Math.floor(Math.random()*marginTop.length);
     $('h1').css("margin-top",marginTop[randTMargin]);
     
-}, 500));
+}, 250));
