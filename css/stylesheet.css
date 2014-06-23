@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 h1 {
 	font-size: 3em;
 }
+=======
+#head {
+  position: absolute;
+  display: block
+  width: auto;
+  height: 50px; 
+}
+h1 {
+font-size: 6em;	
+position: absolute;
+}
+>>>>>>> 036fdf0a4e9a5144184cfd95112b5c7595673565
