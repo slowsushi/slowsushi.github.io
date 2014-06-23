@@ -1,3 +1,7 @@
+#head {
+  width: auto;
+  height: 50px; 
+}
 h1 {
 font-size: 6em;	
 position: absolute;
