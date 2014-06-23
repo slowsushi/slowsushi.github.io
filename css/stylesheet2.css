@@ -1,0 +1,13 @@
+div {
+  display: block;
+  border-radius: 5px;
+}
+#one{
+  background-color: black;
+}
+#two {
+  background-color: yellow;
+}
+#three {
+  background-color: red;
+}
