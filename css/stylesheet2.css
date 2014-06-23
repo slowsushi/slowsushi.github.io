@@ -1,9 +1,12 @@
 div {
   display: block;
   border-radius: 5px;
+  height: 50px;
+  width: 50px;
 }
 #one{
   background-color: black;
+
 }
 #two {
   background-color: yellow;
