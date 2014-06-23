@@ -1,12 +1,7 @@
-.head {
-  margin: auto
-}
-.head {
-  display: inline-block;
-  border-radius: 5px;
-  height: 100px;
-  width: 100px;
+
   
+.head{
+  margin: auto;
 }
 #one{
   background-color: black;
