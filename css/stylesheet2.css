@@ -1,4 +1,7 @@
-div {
+#container {
+  margin: auto
+}
+.head {
   display: inline-block;
   border-radius: 5px;
   height: 100px;
