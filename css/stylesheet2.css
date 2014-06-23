@@ -1,7 +1,8 @@
 
   
 .head{
-  margin: auto;
+  display: inline-block;
+  width: 30%;
 }
 #one{
   background-color: black;
