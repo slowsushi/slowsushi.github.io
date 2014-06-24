@@ -2,10 +2,13 @@
   
 .head{
   display: inline-block;
+  position:relative;
   width: 30%;
+  height: 50px;
 }
 #one{
   background-color: black;
+  
 }
 #two {
   background-color: yellow;
